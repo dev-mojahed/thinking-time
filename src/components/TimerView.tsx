@@ -127,8 +127,8 @@ export const TimerView: React.FC<TimerViewProps> = ({ onViewChange }) => {
 
     const elapsedTime = settings.duration - timerState.timeLeft;
     
-    // Handle early idea mode
-    if (currentIdeaMode === 'early' && !hasShownEarlyIdea && elapsedTime >= 15) {
+    // Handle early idea mode - show immediately when timer starts
+    if (currentIdeaMode === 'early' && !hasShownEarlyIdea && elapsedTime >= 1) {
       setCurrentIdea(getRandomPrompt());
       setHasShownEarlyIdea(true);
       return;

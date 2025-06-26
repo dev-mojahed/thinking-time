@@ -259,9 +259,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 **Contact**
 
-- **Email**: hello@thinkingtime.app
-- **Twitter**: [@ThinkingTimeApp](https://twitter.com/thinkingtimeapp)
-- **Website**: [thinkingtime.app](https://thinkingtime.app)
+- **Email**: dev.mojahedul@gmail.com
 
 ---
 
@@ -269,7 +267,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🧠 **Start Your Thinking Journey Today**
 
-**[Launch Thinking Time →](https://your-demo-url.com)**
+**[Launch Thinking Time →](https://thinking-time.netlify.app/)**
 
 *"The quality of your thinking determines the quality of your life."*
 

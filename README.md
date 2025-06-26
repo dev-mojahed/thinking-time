@@ -41,26 +41,9 @@ In our hyperconnected world, we've lost the art of **deep thinking**. We consume
 
 ## 🚀 **Live Demo**
 
-**[Try Thinking Time Now →](https://your-demo-url.com)**
+**[Try Thinking Time Now →](https://thinking-time.netlify.app/)**
 
 *No signup required. Start thinking in seconds.*
-
----
-
-## 📱 **Screenshots**
-
-<div align="center">
-
-### Main Timer Interface
-![Timer Interface](https://via.placeholder.com/800x500/1e293b/fbbf24?text=Beautiful+Timer+Interface)
-
-### Intelligent Idea Prompts
-![Idea Prompts](https://via.placeholder.com/800x500/1e293b/10b981?text=Smart+Thinking+Prompts)
-
-### Progress Tracking
-![Progress Tracking](https://via.placeholder.com/800x500/1e293b/3b82f6?text=Reflection+History)
-
-</div>
 
 ---
 
